@@ -6,6 +6,7 @@ import pessoas1 from "@/assets/pessoas1.jpg";
 import pessoas2 from "@/assets/pessoas2.jpg";
 import pessoas3 from '@/assets/pessoas3.jpg'
 import machine2 from '@/assets/machine2.jpg'
+import machine1 from '@/assets/machine1.jpg'
 
 
 const servicos = [
@@ -65,7 +66,7 @@ const servicos = [
   <main class="bg-gradient-to-br from-slate-900 to-slate-700">
     <div
       class="w-full bg-gray-700 h-[90vh] flex justify-center items-center flex-col bg-cover bg-center"
-      style="background-image: url(../src/assets/machine1.jpg)"
+      :style="{backgroundImage: 'url('+ machine1+')'}"
     >
       <p class="text-xl text-white sm:text-2xl md:text-3xl mx-4 text-center">
         A maior construtora do Brasil
