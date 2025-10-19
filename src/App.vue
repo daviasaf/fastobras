@@ -148,10 +148,10 @@ const servicos = [
         </Servicos>
       </div>
       <div
-        class="w-full h-[50vh] flex justify-center items-center bg-gray-100 mt-5"
+        class="w-full h-[50vh] flex justify-center items-center bg-gray-100"
       >
         <button
-          class="text-1xl sm:text-2xl sm:p-7 bg-orange-600 hover:bg-orange-700 text-white font-bold p-5 rounded-xl shadow-lg cursor-pointer transition duration-300"
+          class="text-1xl sm:text-2xl sm:p-7 bg-orange-600 hover:bg-orange-700 text-white font-bold rounded-xl shadow-lg cursor-pointer transition duration-300"
         >
           Confira nossos produtos
         </button>

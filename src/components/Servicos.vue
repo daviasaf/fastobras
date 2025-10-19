@@ -4,7 +4,7 @@ const props = defineProps(['url'])
 </script>
 
 <template>
-  <div class="flex justify-center items-center flex-col  mt-20 ">
+  <div class="flex justify-center items-center flex-col my-20 ">
     
     <p class="bg-gray-200 text-slate-900 text-center font-extrabold text-3xl py-6 w-4/5 shadow-lg rounded-t-2xl break-words"> 
         <slot name="nomeservico"></slot> 
