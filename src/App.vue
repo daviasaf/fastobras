@@ -81,7 +81,7 @@ const servicos = [
     <div
       class="w-auto bg-gray-100 flex justify-center py-10 flex-wrap"
     >
-      <div class="w-1/4 bg-white p-10 rounded mx-10 min-w-50 shadow-lg ">
+      <div class="w-1/4 bg-white p-10 rounded mx-10 min-w-50 shadow-lg my-2 ">
         <p class="text-center border-b-1 mb-3 text-lg font-semibold text-slate-700">Onde estamos?</p>
         <LocalidadeEmpresa>Macaé</LocalidadeEmpresa>
         <LocalidadeEmpresa>Campos</LocalidadeEmpresa>
@@ -89,7 +89,7 @@ const servicos = [
         <LocalidadeEmpresa>São Paulo</LocalidadeEmpresa>
         <LocalidadeEmpresa>Niterói</LocalidadeEmpresa>
       </div>
-      <div class="w-1/4 bg-white p-10 rounded mx-10 min-w-50 shadow-lg">
+      <div class="w-1/4 bg-white p-10 rounded mx-10 min-w-50 shadow-lg my-2">
         <p class="text-center border-b-1 mb-3 text-lg font-semibold text-slate-700">Onde estaremos?</p>
         <LocalidadeFuturaEmpresa>Bahia</LocalidadeFuturaEmpresa>
         <LocalidadeFuturaEmpresa>Natal</LocalidadeFuturaEmpresa>
