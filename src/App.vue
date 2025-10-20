@@ -151,7 +151,7 @@ const servicos = [
         class="w-full h-[50vh] flex justify-center items-center bg-gray-100"
       >
         <button
-          class="text-1xl sm:text-2xl sm:p-7 bg-orange-600 hover:bg-orange-700 text-white font-bold rounded-xl shadow-lg cursor-pointer transition duration-300"
+          class="text-1xl sm:text-2xl p-3 sm:p-7 bg-orange-600 hover:bg-orange-700 text-white font-bold rounded-xl shadow-lg cursor-pointer transition duration-300"
         >
           Confira nossos produtos
         </button>
